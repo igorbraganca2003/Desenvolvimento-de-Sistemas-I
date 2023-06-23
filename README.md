@@ -12,3 +12,9 @@
 ## TG5
 
 <img width="1512" alt="TG5" src="https://github.com/igorbraganca2003/Desenvolvimento-de-Sistemas-I/assets/61918994/e5e7c7da-e31d-4e66-a3f6-cf37d250d2d4">
+
+
+## TG6
+
+
+<img width="1512" alt="TG6" src="https://github.com/igorbraganca2003/Desenvolvimento-de-Sistemas-I/assets/61918994/4745571a-7099-4746-a336-aa601f765c4c">
